@@ -9,11 +9,11 @@
 
 # @markdown <br>
 
-API_ID = 0  # @param {type: "integer"}
-API_HASH = ""  # @param {type: "string"}
-BOT_TOKEN = ""  # @param {type: "string"}
-USER_ID = 0  # @param {type: "integer"}
-DUMP_ID = 0  # @param {type: "integer"}
+API_ID = "26887168"  # @param {type: "integer"}
+API_HASH = "d9ff30ec9418adb22af18e7beacb92be"  # @param {type: "string"}
+BOT_TOKEN = "6923478966:AAHPSbp2c1DTbF3K27cW_VEte2vnF1Rw1KU"  # @param {type: "string"}
+USER_ID = "5850899264"  # @param {type: "integer"}
+DUMP_ID = "-1002083160055"  # @param {type: "integer"}
 
 
 import subprocess, time, json, shutil, os
@@ -22,25 +22,7 @@ from threading import Thread
 
 Working = True
 
-banner = '''
-
- ____   ____.______  ._______  .______       _____._.______  .___  ____   ____
- \\   \\_/   /: __   \\ : .___  \\ :      \\      \\__ _:|: __   \\ : __| \\   \\_/   /
-  \\___ ___/ |  \\____|| :   |  ||       |       |  :||  \\____|| : |  \\___ ___/ 
-  /   _   \\ |   :  \\ |     :  ||   |   |       |   ||   :  \\ |   |  /   _   \\ 
- /___/ \\___\\|   |___\\ \\_. ___/ |___|   |       |   ||   |___\\|   | /___/ \\___\\
-            |___|       :/         |___|       |___||___|    |___|            
-                        :                                                     
-                                                                              
- 
-              _____     __     __     __              __          
-             / ___/__  / /__ _/ /    / / ___ ___ ____/ /  ___ ____
-            / /__/ _ \\/ / _ `/ _ \\  / /_/ -_) -_) __/ _ \\/ -_) __/
-            \\___/\\___/_/\\_,_/_.__/ /____|__/\\__/\\__/_//_/\\__/_/   
-
-                                                
-
-'''
+banner = '''Working'''
 
 print(banner)
 

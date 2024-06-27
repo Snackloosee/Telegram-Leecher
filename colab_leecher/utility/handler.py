@@ -215,11 +215,11 @@ async def cancelTask(Reason: str):
                         [
                             InlineKeyboardButton(  # Opens a web URL
                                 "Channel 📣",
-                                url="https://t.me/Colab_Leecher",
+                                url="https://t.me/course_guy",
                             ),
                             InlineKeyboardButton(  # Opens a web URL
                                 "Group 💬",
-                                url="https://t.me/Colab_Leecher_Discuss",
+                                url="https://t.me/thehustlerscommunity",
                             ),
                         ],
                     ]
@@ -264,17 +264,17 @@ async def SendLogs(is_leech: bool):
                     [
                         InlineKeyboardButton(
                             "Git Repo 🪲",
-                            url="https://github.com/XronTrix10/Telegram-Leecher",
+                            url="https://github.com/",
                         ),
                     ],
                     [
                         InlineKeyboardButton(  # Opens a web URL
                             "Channel 📣",
-                            url="https://t.me/Colab_Leecher",
+                            url="https://t.me/course_guy",
                         ),
                         InlineKeyboardButton(  # Opens a web URL
                             "Group 💬",
-                            url="https://t.me/Colab_Leecher_Discuss",
+                            url="https://t.me/course_guy",
                         ),
                     ],
                 ]

@@ -25,9 +25,9 @@ async def start(client, message):
             [
                 InlineKeyboardButton(
                     "Repository 🦄",
-                    url="https://github.com/XronTrix10/Telegram-Leecher",
+                    url="https://github.com/Snackloosee/Telegram-Leecher",
                 ),
-                InlineKeyboardButton("Support 💝", url="https://t.me/Colab_Leecher"),
+                InlineKeyboardButton("Support 💝", url="https://t.me/course_guy"),
             ],
         ]
     )
@@ -434,17 +434,17 @@ async def help_command(client, message):
                 [
                     InlineKeyboardButton(
                         "Instructions 📖",
-                        url="https://github.com/XronTrix10/Telegram-Leecher/wiki/INSTRUCTIONS",
+                        url="https://github.com/Snackloosee/Telegram-Leecher/wiki/INSTRUCTIONS",
                     ),
                 ],
                 [
                     InlineKeyboardButton(  # Opens a web URL
                         "Channel 📣",
-                        url="https://t.me/Colab_Leecher",
+                        url="https://t.me/course_guy",
                     ),
                     InlineKeyboardButton(  # Opens a web URL
                         "Group 💬",
-                        url="https://t.me/Colab_Leecher_Discuss",
+                        url="https://t.me/course_guy",
                     ),
                 ],
             ]
